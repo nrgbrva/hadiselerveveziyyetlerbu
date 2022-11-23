@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.false {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: red;
+}
+
+.none {
+  background-color: blue;
+  color: red (96, 96, 96);
+}
+.subscribe-button {
+  border-radius: 2px;
+  height: 36px;
+  width: 150px;
+  text-transform: uppercase;
+}
